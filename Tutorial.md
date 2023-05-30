@@ -5,7 +5,7 @@
 #### Download from github
 
 ```sh
-git clone https://github.com/britishcoffee/MeH.git
+git clone https://github.com/PaoyangLab/MeH.git
 cd MeH
 ```
 

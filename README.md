@@ -2,7 +2,7 @@
 
 :mega: DNA methylation heterogeneity measures the epigenetic diversity within a cell population where the behaviour of individual cells can vary as differential responses to the environmental stimuli or dynamic progression of cellular development.
 
-![Github All Releases](https://img.shields.io/github/downloads/britishcoffee/MeHscr/total.svg?style=for-the-badge)             ![issue](https://img.shields.io/github/issues/britishcoffee/MeHscr?style=for-the-badge)              ![star](https://img.shields.io/github/stars/britishcoffee/MeHscr?style=for-the-badge) 
+![Github All Releases](https://img.shields.io/github/downloads/PaoyangLab/MeH/total.svg?style=for-the-badge)             ![issue](https://img.shields.io/github/issues/PaoyangLab/MeH?style=for-the-badge)              ![star](https://img.shields.io/github/stars/PaoyangLab/MeH?style=for-the-badge) 
 
 
 
@@ -23,7 +23,7 @@
 
 ### Documentation
 
-MeH users guide is available as a [PDF file](./Manual.pdf), containing the detail of each step. For questions please open an issue on [GitHub](https://github.com/britishcoffee/MeHscr/issues) or [contact me](#contact).
+MeH users guide is available as a [PDF file](./Manual.pdf), containing the detail of each step. For questions please open an issue on [GitHub](https://github.com/PaoyangLab/MeH/issues) or [contact me](#contact).
 
 ### Tutorial
 
@@ -71,7 +71,7 @@ Please follow the [tutorial](./Tutorial.md) of example use case.
 MeH can be installed for Linux, macOS, or Windows by either compiling  from source which has the advantage that it will be optimized to the specific system:
 
 ```bash
-git clone https://github.com/britishcoffee/MeH.git
+git clone https://github.com/PaoyangLab/MeH.git
 cd MeH
 ```
 
