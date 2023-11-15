@@ -15,7 +15,7 @@
 
 ### Publication
 
-[Estimating methylation heterogeneity in bisulfite sequencing data by mathematical modelling. journal. doi: (2021)]()
+[Pei-Yu Lin☨, Ya-Ting Sabrina Chang☨, Yu-Chun Huang, Pao-Yang Chen (2023) Estimating genome-wide DNA methylation heterogeneity with methylation patterns Epigenetics & Chromatin. doi:https://doi.org/10.1186/s13072-023-00521-7 ](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-023-00521-7)
 
 ## Pipeline
 
@@ -318,7 +318,7 @@ Use the scrpit **[IGV](./https://software.broadinstitute.org/software/igv/downlo
 
 ## Contact
 
-[<img src="https://avatars.githubusercontent.com/u/30218118?v=4" width="100">](ytchang.sabrina@gmail.com) 
+[<img src="https://avatars.githubusercontent.com/u/39916474?v=4" width="100">](https://github.com/beritlin) 
 
-**Sabrina**- [:email: ytchang.sabrina@gmail.com](ytchang.sabrina@gmail.com) 
+**Pei-Yu Lin**- [GitHub](https://github.com/beritlin) 
 
